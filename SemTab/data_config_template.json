@@ -1,0 +1,14 @@
+[
+  {
+    "name": "dataset_1",
+    "gt_path": "path/to/ground_truth.csv",
+    "table_dir": "path/to/tables",
+    "need_mapping": false
+  },
+  {
+    "name": "dataset_2",
+    "gt_path": "path/to/ground_truth.csv",
+    "table_dir": "path/to/tables",
+    "need_mapping": true
+  }
+]
